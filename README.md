@@ -149,8 +149,9 @@ Example Response:
 
 ## **Contributors**
 
-- **Your Name**: Developer and maintainer of the project.
+-  Muhammad Qasim(221026)
+- Esham Afzal (221008)
+- Aisha Munir(221004)
 
 ---
 
-Let me know if you'd like any modifications or additional details!
